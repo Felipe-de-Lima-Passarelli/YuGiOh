@@ -44,6 +44,8 @@ Bem-vindo ao projeto **Yu-Gi-Oh Cards**, um catálogo interativo de cartas que u
 
 ```
 /yugioh-cards
+│   LICENSE
+│   README
 │   index.html
 │   style.css
 │   index.js
