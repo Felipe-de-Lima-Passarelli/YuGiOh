@@ -45,10 +45,10 @@ Bem-vindo ao projeto **Yu-Gi-Oh Cards**, um catálogo interativo de cartas que u
 ```
 /yugioh-cards
 │   LICENSE
-│   README
+│   README.MD
 │   index.html
-│   style.css
 │   index.js
+│   style.css
 └───assets/
         imagens ou ícones (opcional)
 ```
